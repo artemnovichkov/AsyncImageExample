@@ -1,5 +1,5 @@
 # AsyncImageExample
-An example project for [AsyncImage. Loading images in SwiftUI](https://blog.artemnovichkov.com/async-image) article.
+An example project for [AsyncImage. Loading images in SwiftUI](https://artemnovichkov.com/blog/async-image) article.
 
 >  Note: The project works in Xcode 13.0 beta (13A5154h).
 
@@ -9,9 +9,7 @@ An example project for [AsyncImage. Loading images in SwiftUI](https://blog.arte
 
 ## Author
 
-Artem Novichkov, mail@artemnovichkov.com
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/artemnovichkov/im-a-cm-b.svg)](https://www.codementor.io/@artemnovichkov?refer=badge)
+Artem Novichkov, https://www.artemnovichkov.com/about
 
 ## License
 
